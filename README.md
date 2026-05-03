@@ -35,7 +35,7 @@ The servo motor rotates based on joystick movement in real time.
 - Automation projects
 
 ## 📹 Demo
-Add your video link here
+(https://youtube.com/shorts/Y-M9N-DYhFA?feature=share)
 
 ---
 
